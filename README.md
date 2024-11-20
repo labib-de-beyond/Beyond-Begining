@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ehateshamul Labib</h1>
 <h3 align="center">A passionate developer and Programmer</h3>
-<img align="right" alt="Coding" height="500" width="800" src="https://www.reddit.com/r/Cyberpunk/comments/17orhba/coding_by_pixel_jeff/#lightbox">
+<img align="right" alt="Coding" height="500" width="800" src="https://dribbble.com/shots/3253310-Coder/attachments/9728497?mode=media">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=labib-de-beyond&label=Profile%20views&color=0e75b6&style=flat" alt="labib-de-beyond" /> </p>
